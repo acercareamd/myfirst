@@ -1,0 +1,11 @@
+Flask
+flask-pymongo
+python-dotenv
+Pillow
+Flask-Login
+Flask-WTF
+Werkzeug
+opencv-python
+pymongo
+python-dateutil
+bcrypt
